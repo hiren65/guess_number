@@ -47,5 +47,6 @@ while (count<5):
         if secreate_number>Int_Guess:
             print("Sorry, You guess is less than secreate no, you miss it!")
             #print("Sorry you miss it, try again")
+
         continue
 
